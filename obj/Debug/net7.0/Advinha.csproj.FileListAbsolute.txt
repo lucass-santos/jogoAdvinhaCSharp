@@ -1,0 +1,15 @@
+/home/lucas/Documentos/Advinha/bin/Debug/net7.0/Advinha
+/home/lucas/Documentos/Advinha/bin/Debug/net7.0/Advinha.deps.json
+/home/lucas/Documentos/Advinha/bin/Debug/net7.0/Advinha.runtimeconfig.json
+/home/lucas/Documentos/Advinha/bin/Debug/net7.0/Advinha.dll
+/home/lucas/Documentos/Advinha/bin/Debug/net7.0/Advinha.pdb
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/Advinha.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/Advinha.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/Advinha.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/Advinha.AssemblyInfo.cs
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/Advinha.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/Advinha.dll
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/refint/Advinha.dll
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/Advinha.pdb
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/Advinha.genruntimeconfig.cache
+/home/lucas/Documentos/Advinha/obj/Debug/net7.0/ref/Advinha.dll
